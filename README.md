@@ -1,4 +1,4 @@
-# M2H_Cases: MATLAB to HLS Transformation Framework
+# M2H_Cases: MATLAB to HLS C/C++ Transformation Framework
 
 A cutting-edge framework for transforming MATLAB algorithms into highly optimized High-Level Synthesis (HLS) implementations, demonstrating state-of-the-art hardware design techniques with exceptional performance metrics.
 
